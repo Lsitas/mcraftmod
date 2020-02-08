@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "TestMod",
+  "description": "Example Titanium mod.",
+  "version": "${1}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Luka Sitas"],
+  "credits": "RP4K, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
